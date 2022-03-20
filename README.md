@@ -9,7 +9,7 @@ About my current works:
     * scale&chord maker in python, going to convert into a website and CLI-based program.
     * several smaller programs for learning purposes.  Started learning c++ and c in order to understand computing better.
 - 🌱 I’m currently learning: Flask, php, VueJs, C#.netcore and the C language family.
-- ⚡ Hobby Musician (Guitar, bass, synths&keyboards)
+- ⚡ Hobby Musician (Guitar, bass, synths&keyboards)  https://soundcloud.com/user-164553566/tracks
 
 ### Q&A
 #### Why the name FossDruid?
