@@ -1,6 +1,6 @@
 ### Hey visitor, Welcome to my workspace.
 
-Bachelor student in Information technology with focus on information systems, business intelligence and Datawarehousing.
+Bachelor student in Information technology with a focus on webdev, information systems, business intelligence and Datawarehousing.
 
 About my current works:
 - 🔭 Main projects that i'm currently working on: 
