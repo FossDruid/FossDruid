@@ -10,3 +10,7 @@ About my current works:
     * several smaller programs for learning purposes.  Started learning c++ and c in order to understand computing better.
 - 🌱 I’m currently learning: Flask, php, VueJs, C#.netcore and the C language family.
 - ⚡ Hobby Musician (Guitar, bass, synths&keyboards)
+
+### Q&A
+* Why the name FossDruid?
+I play druid in D&D.
