@@ -12,5 +12,8 @@ About my current works:
 - ⚡ Hobby Musician (Guitar, bass, synths&keyboards)
 
 ### Q&A
-* Why the name FossDruid?
-I play druid in D&D.
+#### Why the name FossDruid?
+I play druid in D&D…
+
+#### Why are some of your repos Nature themed?  
+I play druid, in dungeons and dragons.
