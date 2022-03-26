@@ -8,7 +8,7 @@ About my current works:
     * Froeya - Weather app for checking both current and historical data.  Might add some analysis aswell.
     * PyChorder - scale&chord maker in python, going to convert into a website and CLI-based program.
     * Several smaller programs for learning purposes.
-- 🌱 I’m currently learning: Flask, php, Svelte, C#.NETcore and the C language family.
+- 🌱 I’m currently learning: Flask, PHP, Svelte, C#.NETcore and the C language family.
 - ⚡ Hobby Musician (Guitar, bass, synths&keyboards).
 
 ### Q&A
