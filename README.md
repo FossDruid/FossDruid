@@ -10,7 +10,3 @@ About my current works:
     * Several smaller programs for learning purposes.
 - 🌱 I’m currently learning: Flask, PHP, Svelte, C#.NETcore and the C language family.
 - ⚡ Hobby Musician (Guitar, bass, synths&keyboards).
-
-### Q&A
-#### Why the name FossDruid?
-I play druid and cleric in Dungeons and Dragons. :evergreen_tree: 🌙🔥
