@@ -9,4 +9,4 @@ About my current works:
     * PyChorder - scale&chord maker in python, going to convert into a website and CLI-based program.
     * Several smaller programs for learning purposes.
 - 🌱 I’m currently learning: Flask, PHP, Svelte, C#.NETcore and the C language family.
-- ⚡ Hobby Musician (Guitar, bass, synths&keyboards).
+- ⚡ Hobby Musician (Guitar, bass, synths&keyboards. DAWs).
